@@ -1,0 +1,8 @@
+{
+  "name": "Portal Berita",
+  "description": "A multi-role news website with reader comments, publisher tools, developer metrics, and full responsivity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
